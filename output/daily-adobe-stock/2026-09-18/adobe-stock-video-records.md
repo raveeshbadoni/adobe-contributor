@@ -1,6 +1,6 @@
 # Adobe Stock Video Source Records — 2026-09-18
 
-**Generated image dimensions:** Pending native landscape generation and exact 16:9 validation before final publication
+**Generated image dimensions:** 1664 × 936 pixels for every image (native landscape output, minimally center-cropped to exact 16:9 without stretching or upscaling)
 
 | ID | Image file | Adobe category | Adobe Stock title | Image-generation prompt | Wan 2.2 image-to-video prompt | Adobe Stock tags, ordered by relevance |
 |---:|---|---|---|---|---|---|
